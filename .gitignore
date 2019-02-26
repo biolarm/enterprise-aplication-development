@@ -40,8 +40,6 @@ local.properties
 # sbteclipse plugin
 .target
 
-RemoteSystemsTempFiles/
-
 # Tern plugin
 .tern-project
 
@@ -61,6 +59,8 @@ RemoteSystemsTempFiles/
 .cache-main
 .scala_dependencies
 .worksheet
+
+RemoteSystemsTempFiles/
 
 
 # Annotation Processing
